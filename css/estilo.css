@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Valken';
+    src: url('../fontes/valken.eot');
+    src: url('../fontes/valken.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/valken.woff') format('woff'),
+    url('../fontes/valken.woff2') format('woff2'),
+    url('../fontes/valken.ttf') format('truetype'),
+    url('../fontes/valken.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fontes/myriadpro-it.eot');
+    src: url('../fontes/myriadpro-it.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/myriadpro-it.woff') format('woff'),
+    url('../fontes/myriadpro-it.woff2') format('woff2'),
+    url('../fontes/myriadpro-it.ttf') format('truetype'),
+    url('../fontes/myriadpro-it.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fontes/myriadpro-regular.eot');
+    src: url('../fontes/myriadpro-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/myriadpro-regular.woff') format('woff'),
+    url('../fontes/myriadpro-regular.woff2') format('woff2'),
+    url('../fontes/myriadpro-regular.ttf') format('truetype'),
+    url('../fontes/myriadpro-regular.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro Bold';
+    src: url('../fontes/myriadpro-semibold.eot');
+    src: url('../fontes/myriadpro-semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/myriadpro-semibold.woff') format('woff'),
+    url('../fontes/myriadpro-semibold.woff2') format('woff2'),
+    url('../fontes/myriadpro-semibold.ttf') format('truetype'),
+    url('../fontes/myriadpro-semibold.svg#tamil-bibleplain') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Secular One';
+    src: url('../fontes/secularone-regular.eot');
+    src: url('../fontes/secularone-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/secularone-regular.woff') format('woff'),
+    url('../fontes/secularone-regular.woff2') format('woff2'),
+    url('../fontes/SecularOne-Regular.ttf') format('truetype'),
+    url('../fontes/secularone-regular.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Exotc350 DmBd BT';
+    src: url('../fontes/tt0627m.eot');
+    src: url('../fontes/tt0627m.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/tt0627m.woff') format('woff'),
+    url('../fontes/tt0627m.woff2') format('woff2'),
+    url('../fontes/tt0627m.ttf') format('truetype'),
+    url('../fontes/tt0627m.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Exotc350 Bd BT';
+    src: url('../fontes/tt0628m.eot');
+    src: url('../fontes/tt0628m.eot?#iefix') format('embedded-opentype'),
+    url('../fontes/tt0628m.woff') format('woff'),
+    url('../fontes/tt0628m.woff2') format('woff2'),
+    url('../fontes/tt0628m.ttf') format('truetype'),
+    url('../fontes/tt0628m.svg#tamil-bibleplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*@font-face {*/
+    /*font-family: 'DS-Digital';*/
+    /*url('../fontes/ds-digi.ttf') format('truetype'),*/
+    /*font-weight: normal;*/
+    /*font-style: normal;*/
+/*}*/
